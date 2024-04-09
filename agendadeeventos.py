@@ -58,3 +58,5 @@ if __name__ == "__main__":
     agenda.remover_evento(1)
 
     agenda.listar_eventos()
+
+# Ajuste
